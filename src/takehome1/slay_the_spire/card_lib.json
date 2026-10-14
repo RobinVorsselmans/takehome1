@@ -1,0 +1,38 @@
+{
+	"starting_deck": {
+		"Strike": 20,
+		"Block": 10
+	},
+	"card_pool": [
+	{"name":"Measured Jab","type":"strike","cost":1,"description":"Deal 6 damage."},
+	{"name":"Driving Cut","type":"strike","cost":1,"description":"Deal 8 damage."},
+	{"name":"Twin Feint","type":"strike","cost":1,"description":"Deal 4 damage twice."},
+	{"name":"Heavy Arc","type":"strike","cost":2,"description":"Deal 15 damage."},
+	{"name":"Quick Puncture","type":"strike","cost":0,"description":"Deal 3 damage."},
+	{"name":"Rising Blow","type":"strike","cost":1,"description":"Deal 7 damage. Deal 3 more damage if you have Block."},
+	{"name":"Sundering Hit","type":"strike","cost":1,"description":"Deal 6 damage. Apply 1 Vulnerable."},
+	{"name":"Follow-Through","type":"strike","cost":1,"description":"Deal 5 damage. Draw 1 card."},
+	{"name":"Whirling Edge","type":"strike","cost":1,"description":"Deal 4 damage to all enemies."},
+	{"name":"Charged Thrust","type":"strike","cost":2,"description":"Deal 11 damage. Gain 4 Block."},
+	{"name":"Needlepoint","type":"strike","cost":1,"description":"Deal 5 damage. Apply 2 Poison."},
+	{"name":"Crushing Palm","type":"strike","cost":2,"description":"Deal 12 damage. Apply 1 Weak."},
+	{"name":"Echoing Slash","type":"strike","cost":1,"description":"Deal 6 damage. If this is the second card played this turn, deal 6 damage again."},
+	{"name":"Flurry Step","type":"strike","cost":0,"description":"Deal 4 damage. Exhaust."},
+	{"name":"Guardbreaker","type":"strike","cost":1,"description":"Deal 7 damage. Ignore the target's Block."},
+	{"name":"Stonewall Stance","type":"block","cost":1,"description":"Gain 8 Block."},
+	{"name":"Quick Parry","type":"block","cost":0,"description":"Gain 4 Block."},
+	{"name":"Brace for Impact","type":"block","cost":2,"description":"Gain 16 Block."},
+	{"name":"Turn Aside","type":"block","cost":1,"description":"Gain 6 Block. Draw 1 card."},
+	{"name":"Thorn Guard","type":"block","cost":1,"description":"Gain 5 Block. Deal 3 damage to the attacker."},
+	{"name":"Warding Rhythm","type":"block","cost":1,"description":"Gain 6 Block. Gain 2 more Block for each Skill played this turn."},
+	{"name":"Iron Veil","type":"block","cost":1,"description":"Gain 7 Block. Exhaust."},
+	{"name":"Fleet Guard","type":"block","cost":0,"description":"Gain 3 Block. Retain this card."},
+	{"name":"Sheltering Wind","type":"block","cost":1,"description":"Gain 5 Block and 2 Block for each enemy."},
+	{"name":"Counterguard","type":"block","cost":1,"description":"Gain 6 Block. Your next attack deals 3 additional damage."},
+	{"name":"Deep Roots","type":"block","cost":2,"description":"Gain 12 Block. This Block is not removed at the start of your next turn."},
+	{"name":"Mirror Aegis","type":"block","cost":1,"description":"Gain 5 Block. Apply 1 Weak to the attacker."},
+	{"name":"Lasting Cover","type":"block","cost":1,"description":"Gain 4 Block. Gain 4 Block at the start of your next turn."},
+	{"name":"Bulwark Pulse","type":"block","cost":2,"description":"Gain 8 Block. Gain 4 Block for each enemy."},
+	{"name":"Slipstream","type":"block","cost":0,"description":"Gain 2 Block. Draw 1 card."}
+	]
+}
